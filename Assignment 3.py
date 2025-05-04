@@ -1,6 +1,4 @@
 # Task 1:
-from math import radians
-
 
 def factorial(n):
     if(n<=1):
